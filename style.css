@@ -1,0 +1,59 @@
+.quicksand-400 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+}
+
+.quicksand-500 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  font-size: 5vh;
+}
+
+.quicksand-500-nav {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  font-size: 3vh;
+  padding-top: 1vh;
+}
+
+.quicksand-500-ft {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  font-size: 4vh;
+}
+
+.saira-extra-600 {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 600;
+}
+
+.saira-extra-900 {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 900;
+}
+
+.saira-extra-900-lg {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 900;
+  font-size: 40vh;
+}
+
+.saira-extra-900-ft {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 900;
+  font-size: 20vh;
+}
+
+.tajawal-400 {
+  font-family: "Tajawal", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.inputWidth {
+  width: 50vh;
+}
+
+input:focus-visible {
+  outline: none;
+}
